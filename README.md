@@ -2,4 +2,4 @@
 
 This is for new project
 
-created on the new project
+created on the new project.
