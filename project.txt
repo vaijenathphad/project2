@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THis is the new file on the GitHub  
+=======
+THis is the new file on the GitHub
+>>>>>>> 0418501d98552fbd969ee883f4ed9a31c6542014
